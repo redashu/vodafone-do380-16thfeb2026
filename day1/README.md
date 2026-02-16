@@ -66,3 +66,8 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
             │  Pods | Deployments | Projects | etc.  │
             └────────────────────────────────────────┘
 ```
+
+### user auth with group understanding as per permission 
+
+<img src="user1.png">
+

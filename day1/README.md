@@ -78,3 +78,7 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
 ### some basic command in ocp to check user login details 
 
 <img src="user3.png">
+
+### checking oauth health by checking pod / operator health
+
+<img src="user4.png">

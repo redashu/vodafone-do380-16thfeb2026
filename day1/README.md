@@ -82,3 +82,7 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
 ### checking oauth health by checking pod / operator health
 
 <img src="user4.png">
+
+### login to OCP and checking console URL 
+
+<img src="user5.png">

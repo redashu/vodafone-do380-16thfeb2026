@@ -86,3 +86,7 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
 ### login to OCP and checking console URL 
 
 <img src="user5.png">
+
+### lab1 history 
+
+<img src="user6.png">

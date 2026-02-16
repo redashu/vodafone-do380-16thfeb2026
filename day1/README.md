@@ -90,3 +90,7 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
 ### lab1 history 
 
 <img src="user6.png">
+
+### permissions in ocp 
+
+<img src="user7.png">

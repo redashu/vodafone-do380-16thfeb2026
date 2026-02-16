@@ -74,3 +74,7 @@ User → Identity Provider → OpenShift OAuth → RBAC → Resource Access
 ### mapping method 
 
 <img src="user2.png">
+
+### some basic command in ocp to check user login details 
+
+<img src="user3.png">

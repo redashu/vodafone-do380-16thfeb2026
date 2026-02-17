@@ -4,3 +4,6 @@
 
 <img src="config.png">
 
+### app backup and restore 
+
+<img src="backup.png">

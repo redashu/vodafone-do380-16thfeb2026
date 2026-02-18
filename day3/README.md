@@ -1,1 +1,4 @@
-# vodafone-do380-16thfeb2026
+## some velero commands 
+
+<img src="velero.png">
+
